@@ -43,9 +43,9 @@ STATE_FILE = Path(__file__).parent / "state.json"
 # Secrets - set these as environment variables (see README.md)
 # ---------------------------------------------------------------------------
 
-CMC_API_KEY = os.environ.get("806b7157d2554c72b203674074b72f24")
-TELEGRAM_BOT_TOKEN = os.environ.get("8779447897:AAFiTdVP9_P8c2MmA9Z4BVhUUqd_U5Br2Mw")
-TELEGRAM_CHAT_ID = os.environ.get("46242041")
+CMC_API_KEY = os.environ.get("CMC_API_KEY")
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 
 def load_state() -> dict:
