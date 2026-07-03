@@ -24,7 +24,8 @@ import requests
 # ---------------------------------------------------------------------------
 # Configuration - tune these to taste
 # ---------------------------------------------------------------------------
-
+# How many coins to watch, ranked by market cap
+TOP_N = 100
 # % change that triggers an alert for each timeframe (absolute value)
 THRESHOLDS = {
     "percent_change_1h": 3.0,
@@ -61,9 +62,9 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2, sort_keys=True))
 
 
-def fetch_top_20() -> list:
+def fetch_top_n() -> list:
     headers = {"X-CMC_PRO_API_KEY": CMC_API_KEY, "Accept": "application/json"}
-    params = {"start": "1", "limit": "20", "convert": "USD"}
+    params = {"start": "1", "limit": str(TOP_N), "convert": "USD"}
     resp = requests.get(CMC_URL, headers=headers, params=params, timeout=15)
     resp.raise_for_status()
     return resp.json()["data"]
@@ -129,7 +130,7 @@ def main() -> None:
     now_iso = datetime.now(timezone.utc).isoformat()
 
     try:
-        coins = fetch_top_20()
+        coins = fetch_top_n()
     except requests.RequestException as e:
         sys.exit(f"CoinMarketCap request failed: {e}")
 
