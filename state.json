@@ -1,1 +1,242 @@
-{}
+{
+  "ADA:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "ADA:percent_change_24h": {
+    "last_alert": "2026-07-03T21:30:00.504425+00:00",
+    "triggered": true
+  },
+  "ADA:percent_change_7d": {
+    "last_alert": "2026-07-03T21:30:00.504425+00:00",
+    "triggered": true
+  },
+  "BCH:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "BCH:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "BCH:percent_change_7d": {
+    "last_alert": "2026-07-03T21:30:00.504425+00:00",
+    "triggered": true
+  },
+  "BNB:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "BNB:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "BNB:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "BTC:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "BTC:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "BTC:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "CC:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "CC:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "CC:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "DAI:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "DAI:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "DAI:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "DOGE:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "DOGE:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "DOGE:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "ETH:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "ETH:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "ETH:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "GRAM:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "GRAM:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "GRAM:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "HYPE:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "HYPE:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "HYPE:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "LEO:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "LEO:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "LEO:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "LINK:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "LINK:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "LINK:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "SOL:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "SOL:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "SOL:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "TRX:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "TRX:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "TRX:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "USDC:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "USDC:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "USDC:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "USDT:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "USDT:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "USDT:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XLM:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XLM:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XLM:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XMR:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XMR:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XMR:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XRP:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XRP:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "XRP:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "ZEC:percent_change_1h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "ZEC:percent_change_24h": {
+    "last_alert": null,
+    "triggered": false
+  },
+  "ZEC:percent_change_7d": {
+    "last_alert": null,
+    "triggered": false
+  }
+}
