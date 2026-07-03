@@ -25,7 +25,7 @@ import requests
 # Configuration - tune these to taste
 # ---------------------------------------------------------------------------
 # How many coins to watch, ranked by market cap
-TOP_N = 100
+TOP_N = 500
 # % change that triggers an alert for each timeframe (absolute value)
 THRESHOLDS = {
     "percent_change_1h": 3.0,
