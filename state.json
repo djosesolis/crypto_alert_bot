@@ -180,8 +180,8 @@
     "triggered": false
   },
   "AKE:percent_change_1h": {
-    "last_alert": "2026-07-18T20:26:53.179606+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "AKE:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -241,7 +241,7 @@
   },
   "ALLO:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "ALLO:percent_change_24h": {
     "last_alert": "2026-07-19T07:48:09.060755+00:00",
@@ -337,11 +337,11 @@
   },
   "ANSEM:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "ANSEM:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "ANSEM:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -544,8 +544,8 @@
     "triggered": false
   },
   "ATH:percent_change_24h": {
-    "last_alert": "2026-07-15T07:26:45.649217+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "ATH:percent_change_7d": {
     "last_alert": null,
@@ -613,7 +613,7 @@
   },
   "AWE:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "AWE:percent_change_24h": {
     "last_alert": "2026-07-16T20:39:47.275759+00:00",
@@ -668,8 +668,8 @@
     "triggered": false
   },
   "AZTEC:percent_change_7d": {
-    "last_alert": null,
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "B2:percent_change_1h": {
     "last_alert": null,
@@ -684,7 +684,7 @@
     "triggered": false
   },
   "B:percent_change_1h": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "B:percent_change_24h": {
@@ -881,7 +881,7 @@
   },
   "BILL:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "BILL:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -1177,7 +1177,7 @@
   },
   "CASHCAT:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "CASHCAT:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -1488,12 +1488,12 @@
     "triggered": false
   },
   "CTM:percent_change_1h": {
-    "last_alert": "2026-07-19T07:48:09.060755+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "CTM:percent_change_24h": {
     "last_alert": "2026-07-19T11:40:16.849659+00:00",
-    "triggered": true
+    "triggered": false
   },
   "CTM:percent_change_7d": {
     "last_alert": "2026-07-08T13:17:25.123421+00:00",
@@ -1637,10 +1637,10 @@
   },
   "DEXE:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "DEXE:percent_change_7d": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "DGB:percent_change_1h": {
@@ -1649,7 +1649,7 @@
   },
   "DGB:percent_change_24h": {
     "last_alert": "2026-07-19T11:40:16.849659+00:00",
-    "triggered": true
+    "triggered": false
   },
   "DGB:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -1793,7 +1793,7 @@
   },
   "EDGE:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "EDGE:percent_change_7d": {
     "last_alert": "2026-07-18T23:36:13.192447+00:00",
@@ -2032,8 +2032,8 @@
     "triggered": false
   },
   "FB:percent_change_24h": {
-    "last_alert": null,
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "FB:percent_change_7d": {
     "last_alert": null,
@@ -2212,11 +2212,11 @@
     "triggered": false
   },
   "FUN:percent_change_24h": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "FUN:percent_change_7d": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "G:percent_change_1h": {
@@ -2593,7 +2593,7 @@
   },
   "HONX:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "HONX:percent_change_24h": {
     "last_alert": "2026-07-18T17:43:01.712947+00:00",
@@ -2692,8 +2692,8 @@
     "triggered": false
   },
   "ICNT:percent_change_24h": {
-    "last_alert": "2026-07-08T07:43:01.450982+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "ICNT:percent_change_7d": {
     "last_alert": "2026-07-14T07:22:12.115647+00:00",
@@ -2780,8 +2780,8 @@
     "triggered": false
   },
   "INTCX:percent_change_7d": {
-    "last_alert": "2026-07-19T07:48:09.060755+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "IO:percent_change_1h": {
     "last_alert": null,
@@ -2860,7 +2860,7 @@
     "triggered": false
   },
   "JCT:percent_change_24h": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "JCT:percent_change_7d": {
@@ -3028,11 +3028,11 @@
     "triggered": false
   },
   "KGEN:percent_change_24h": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "KGEN:percent_change_7d": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "KITE:percent_change_1h": {
@@ -3145,7 +3145,7 @@
   },
   "LAB:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "LAB:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -3177,7 +3177,7 @@
   },
   "LDO:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "LEO:percent_change_1h": {
     "last_alert": null,
@@ -3260,8 +3260,8 @@
     "triggered": false
   },
   "LIT:percent_change_7d": {
-    "last_alert": "2026-07-19T07:48:09.060755+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "LLYX:percent_change_1h": {
     "last_alert": null,
@@ -3353,7 +3353,7 @@
   },
   "MAGMA:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "MAGMA:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -4177,10 +4177,10 @@
   },
   "PI:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "PI:percent_change_24h": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "PI:percent_change_7d": {
@@ -4473,7 +4473,7 @@
   },
   "RAVE:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "RAY:percent_change_1h": {
     "last_alert": null,
@@ -4849,7 +4849,7 @@
   },
   "SKR:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "SKR:percent_change_24h": {
     "last_alert": "2026-07-16T23:43:25.637119+00:00",
@@ -5213,7 +5213,7 @@
   },
   "SUSHI:percent_change_24h": {
     "last_alert": "2026-07-19T11:40:16.849659+00:00",
-    "triggered": true
+    "triggered": false
   },
   "SUSHI:percent_change_7d": {
     "last_alert": null,
@@ -5224,8 +5224,8 @@
     "triggered": false
   },
   "SUT:percent_change_24h": {
-    "last_alert": "2026-07-16T20:39:47.275759+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "SUT:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -5237,7 +5237,7 @@
   },
   "SYN:percent_change_24h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "SYN:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -5305,7 +5305,7 @@
   },
   "TBK:percent_change_1h": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
-    "triggered": true
+    "triggered": false
   },
   "TBK:percent_change_24h": {
     "last_alert": null,
@@ -5548,11 +5548,11 @@
     "triggered": false
   },
   "U:percent_change_24h": {
-    "last_alert": "2026-07-19T14:44:05.042960+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "U:percent_change_7d": {
-    "last_alert": "2026-07-19T14:44:05.042960+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "UAI:percent_change_1h": {
@@ -5632,8 +5632,8 @@
     "triggered": false
   },
   "US:percent_change_24h": {
-    "last_alert": "2026-07-18T10:48:36.247771+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "US:percent_change_7d": {
     "last_alert": "2026-07-19T14:44:05.042960+00:00",
@@ -6116,8 +6116,8 @@
     "triggered": false
   },
   "WLD:percent_change_7d": {
-    "last_alert": null,
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "WLFI:percent_change_1h": {
     "last_alert": null,
@@ -6208,7 +6208,7 @@
     "triggered": false
   },
   "XEC:percent_change_24h": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "XEC:percent_change_7d": {
@@ -6272,8 +6272,8 @@
     "triggered": false
   },
   "XP:percent_change_7d": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "XPIN:percent_change_1h": {
     "last_alert": "2026-07-18T06:31:26.453141+00:00",
@@ -6520,12 +6520,12 @@
     "triggered": false
   },
   "ZEREBRO:percent_change_24h": {
-    "last_alert": "2026-07-19T11:40:16.849659+00:00",
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
     "triggered": true
   },
   "ZEREBRO:percent_change_7d": {
-    "last_alert": "2026-07-04T08:06:59.734606+00:00",
-    "triggered": false
+    "last_alert": "2026-07-19T18:06:14.398488+00:00",
+    "triggered": true
   },
   "ZETA:percent_change_1h": {
     "last_alert": null,
